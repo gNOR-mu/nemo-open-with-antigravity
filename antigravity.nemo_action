@@ -1,0 +1,10 @@
+[Nemo Action]
+
+Active=true
+Name=Open with Antigravity
+Comment=Open the file with Antigravity
+Exec=antigravity %F
+Selection=any
+Extensions=any;
+Quote=double
+Dependencies=antigravity;
