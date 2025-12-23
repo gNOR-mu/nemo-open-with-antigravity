@@ -4,7 +4,7 @@
 
 
 Nemo, the cinnamon DE (Desktop Environment) file manager, supports adding actions and scripts easily by adding a config file in `~/.local/share/nemo`.
-So, for adding the `open in vscode` option, you just need to place the file `vscode.nemo_action` in the `actions` folder in the mentioned directory.
+So, for adding the `open with Antigravity` option, you just need to place the file `antigravity.nemo_action` in the `actions` folder in the mentioned directory.
 
 (description based on [this repo](https://github.com/mhsattarian/nemo-open-in-vscode))
 
